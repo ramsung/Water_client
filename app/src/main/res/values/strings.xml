@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Water_client</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Orders</string>
+    <string name="title_notifications">Accounts</string>
+    <string name="vendor_name">Adele</string>
+    <string name="Phone">7358339907</string>
+</resources>
