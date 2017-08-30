@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
         display(minteger);
 
     }public void decreaseInteger(View view) {
+        if(minteger==0){return;}
         minteger = minteger - 1;
         display(minteger);
     }
